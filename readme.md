@@ -32,3 +32,5 @@ Menggunakan struktur data list yang lebih tepatnya array list dalam JAVA, karena
 
 ###### untuk method add, set, dan remove itu berasal dari library ArrayList
 
+## Dokumentasi Running JAVA Program
+![img](/java/screenshot/Screenshot (3025).png)
