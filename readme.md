@@ -31,3 +31,4 @@ Menggunakan struktur data list yang lebih tepatnya array list dalam JAVA, karena
 - Yang terakhir itu 3 maka hanya akan diminta untuk input data keberapa yang mau dihapus dan nanti akan menggunakan method remove untuk menghapus data
 
 ###### untuk method add, set, dan remove itu berasal dari library ArrayList
+
