@@ -39,7 +39,7 @@ public class Main{
 
         int i = 0;
         
-        //mencoba masukin satu data dengan add method
+        //Instansiasi dan mencoba masukin satu data dengan add method
         Mahasiswa mhs = new Mahasiswa();
         mhs.setnama("Ujang Leverkussen");
         mhs.setNIM("01");
