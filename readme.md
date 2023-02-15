@@ -33,4 +33,13 @@ Menggunakan struktur data list yang lebih tepatnya array list dalam JAVA, karena
 ###### untuk method add, set, dan remove itu berasal dari library ArrayList
 
 ## Dokumentasi Running JAVA Program
-![img](/java/screenshot/Screenshot (3025).png)
+### Tampilan awal
+![Screenshot (3025)](https://user-images.githubusercontent.com/90629617/219037967-94d1ed76-44f0-4647-8efe-0dd673fad867.png)
+### Menambahkan data
+![Screenshot (3026)](https://user-images.githubusercontent.com/90629617/219038346-391f15fc-6401-4b94-8617-718436f00ebe.png)
+### Merubah data
+![Screenshot (3027)](https://user-images.githubusercontent.com/90629617/219038594-c4dba2a5-8b0f-431f-90fd-8c679f79f5c1.png)
+### Menghapus data
+![Screenshot (3028)](https://user-images.githubusercontent.com/90629617/219038601-7204af12-f99c-4a58-a1de-dd0006ca571d.png)
+### exit
+![Screenshot (3029)](https://user-images.githubusercontent.com/90629617/219038605-b495e7c1-72fb-499c-bc8c-9b6b9c4946fd.png)
